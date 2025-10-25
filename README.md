@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek A Nair</h1>
 <h3 align="center">🚀 Ethical Hacker | 💻 Java & Android Developer | ☁️ Tech Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://github.com/AbhishekNair1289/AbhishekNair1289/blob/master/IMG_4439.jpg">
+<img align="right" alt="Coding" width="400" height="400" src="https://github.com/abhisheknair0925-beep/abhishek_a_nair/blob/main/IMG20241218123854.jpg">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhisheknair1289&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknair1289" />
@@ -12,8 +12,8 @@
 ### 🧩 About Me
 
 - 🔭 I’m currently working at **Inditech Data Insights Pvt Ltd**
-- ⚙️ Implementing **Automatic Revenue Sharing Solution (E-Goal)** across stores in CIAL
-- 📱 Currently developing **E-Goal V2 Android App** using **Android Studio (Kotlin + MVVM)**
+- ⚙️ Implementing **Automatic Revenue Sharing Solution (E-Goal)** across stores in Malls and Airports
+- 📱 Currently developing **EGoal utilities for stores in Malls and Airports, EGoal V2 Android App** using **.NET, MySQL and Android Studio**
 - 💬 Ask me about **Cyber Security, Java, Android Development, SQL, and API Integrations**
 - 🌱 I’m currently learning **Flutter & Advanced Java Backend Development**
 - 👯 I’m open to collaborating on **Security or Enterprise Automation Projects**
