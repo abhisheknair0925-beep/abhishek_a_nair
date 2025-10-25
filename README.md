@@ -23,13 +23,20 @@
 
 ### 💼 Professional Experience
 
-**Software Developer** — *Inditech Data Insights Pvt Ltd*  
-📅 *2023 – Present* | 📍 Kochi, India  
+**Development Team Lead** — *Inditech Data Insights Pvt Ltd*  
+📅 *Aug 2024 – Present* | 📍 Kochi, India  
 
 - Designed and implemented **E-Goal**, an *Automatic Revenue Sharing Solution* integrating multi-store retail data using **C#, SQL Server, and REST APIs**.  
 - Created **data processing utilities** for sales and return reconciliation, ensuring accuracy and compliance.  
 - Developed **E-Goal V2 Android App** with **secure login, API integration, and data visualization features** using **MVVM architecture**.  
 - Collaborated with clients and IT teams for deployment, auditing, and performance optimization.  
+
+**Junior Software Associate Intern** — *Eduzell Technologies and Solutions LLP*  
+📅 *Sep 2023 – Jul 2024* | 📍 Kochi, India  
+
+- Contributed to backend module development using Java Spring Boot.  
+- Executed SQL queries for data analysis and report generation  
+- Assisted in troubleshooting, debugging, and feature enhancement tasks  
 
 ---
 
